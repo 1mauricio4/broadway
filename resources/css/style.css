@@ -2,4 +2,18 @@ body {
   font-family: Helvetica, sans-serif;
   text-align: center;
   display: block;
+  margin: 6px;
+}
+
+.header {
+  background-image: url("../images/flatironnyc.png");
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+}
+
+h1, .link, .header h3, .footer {
+  color: white;
 }
