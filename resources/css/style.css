@@ -28,3 +28,15 @@ link {
 h2 {
   font-size: 32px;
 }
+
+.supporting h3 {
+  font-size: 23px;
+}
+
+.supporting p {
+  font-size: 14px;
+}
+
+.header h3 {
+  font-size: 23px;
+}
