@@ -2,7 +2,7 @@ body {
   font-family: Helvetica, sans-serif;
   text-align: center;
   display: block;
-  margin: 6px;
+  margin: 8px;
 }
 
 .header {
@@ -11,9 +11,20 @@ body {
 
 h1 {
   font-size: 70px;
-  font-weight: bold;
 }
 
 h1, .link, .header h3, .footer {
   color: white;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+link {
+  font-size: 18px;
+}
+
+h2 {
+  font-size: 32px;
 }
